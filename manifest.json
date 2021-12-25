@@ -1,6 +1,6 @@
 {
-    "name":"To Do List",
-    "description":"A simple pop out todo list",
+    "name":"Make Notes",
+    "description":"A simple pop out for note making",
     "version": "1.0",
     "manifest_version": 3,
     "action":{
